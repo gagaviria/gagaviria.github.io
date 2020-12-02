@@ -1,0 +1,88 @@
+body, html {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+  }
+
+  .Menu {
+    text-align: right;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+  }
+
+  #rcorners {
+    border-radius: 25px;
+    border: 2px solid lightgray;
+    padding: 10px;
+    width: 500px;
+    height: 30px;
+    outline: none;
+  }
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+.AdvSearch {
+    color: red;
+    text-align: center;
+}
+
+a {
+    color: blue;
+}
+
+a[href="GImage.html"] {
+    color: goldenrod;
+}
+
+a[href="GAdvance.html"] {
+    color: red;
+}
+
+.buttonAdvS {
+        color: white;
+        width: 150px;
+        height: 35px;
+        font-size: 16px;
+        background-color: rgb(66, 108, 247);
+}
+
+.button {
+  border: none;
+  width: 150px;
+  height: 35px;
+  font-size: 15px;
+}
+.button:hover {
+  border: 1px solid lightgray;
+}
+
+.textinput {
+  border-radius: 1px;
+  border: 1px solid #d9d9d9;
+  border-top: 1px solid #c0c0c0;
+  font-size: 13px;
+  height: 25px;
+  padding: 1px 8px;
+}
+
+div.otByu {
+  display: inline-block;
+  min-width: 167px;
+  min-height: 41px;
+  vertical-align: middle;
+  width: 50%;
+}
+
+div.otByu input[type="text"], div.otByu {
+  width: 50%;
+  text-align: left;
+}
