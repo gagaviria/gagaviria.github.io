@@ -74,7 +74,7 @@ a[href="GAdvance.html"] {
   padding: 1px 8px;
 }
 
-div.otByu {
+div.AdvS {
   display: inline-block;
   min-width: 167px;
   min-height: 41px;
@@ -82,7 +82,7 @@ div.otByu {
   width: 50%;
 }
 
-div.otByu input[type="text"], div.otByu {
+div.AdvS input[type="text"], div.Advs {
   width: 50%;
   text-align: left;
 }
